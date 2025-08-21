@@ -145,7 +145,7 @@ One Flew Over the Cuckoo's Nest (1975)    2.650993
 
 ## 👨‍💻 Author
 
-* **Your Name**
+* **Touseef Ur Rehman**
 * GitHub: [@touseef7878](https://github.com/touseef7878)
 
 ---
