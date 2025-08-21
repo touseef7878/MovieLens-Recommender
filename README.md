@@ -32,7 +32,7 @@ The project uses the **MovieLens 100k dataset**.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/MovieLens-Recommender.git
+   git clone https://github.com/touseef7878/MovieLens-Recommender.git
    cd MovieLens-Recommender
    ```
 
