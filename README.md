@@ -36,10 +36,10 @@ The project uses the **MovieLens 100k dataset**.
    cd MovieLens-Recommender
    ```
 
-2. Install dependencies:
+2. Install dependencies using `requirements.txt`:
 
    ```bash
-   pip install pandas numpy scikit-learn scipy
+   pip install -r requirements.txt
    ```
 
 3. Download and extract the **MovieLens 100k dataset** inside the project folder.
